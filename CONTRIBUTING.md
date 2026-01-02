@@ -203,7 +203,7 @@ When opening a PR:
 
 SpectraGraph is an OSINT platform. All contributors must follow ethical guidelines.
 
-**Read and follow ETHICS.md**
+**Read and follow ETHICS.md*
 + Do not add features that:
 + Enable intrusive scanning
 + Circumvent safeguards
